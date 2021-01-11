@@ -1,8 +1,6 @@
-# kms-server-deploy
+# KMS Server Deploy
 
-再此特别感谢KMS服务器程序的开发者Wind4
-
-本项目基于[vlmcsd](https://github.com/Wind4/vlmcsd)。
+本项目基于[vlmcsd](https://github.com/Wind4/vlmcsd)，在此特别感谢vlmcsd的开发者Wind4
 
 ## 部署方法：
 
@@ -25,4 +23,3 @@ wget --no-check-certificate https://raw.githubusercontent.com/ikaleo/kms-server-
 **卸载：**
 
 ![uninstall.png](./image/uninstall.png)
-
