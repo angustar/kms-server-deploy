@@ -1,6 +1,6 @@
 # KMS Server Deploy
 
-本项目基于[vlmcsd](https://github.com/Wind4/vlmcsd)，在此特别感谢vlmcsd的开发者Wind4
+本项目基于[vlmcsd](https://github.com/Wind4/vlmcsd)，在此特别感谢vlmcsd的开发者Wind4。
 
 ## 部署方法：
 
