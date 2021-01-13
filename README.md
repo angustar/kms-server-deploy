@@ -4,7 +4,7 @@
 
 ## 部署方法：
 
-在服务器上，执行如下命令即可：
+使用root用户登录服务器，运行以下命令：
 
 ```shell
 wget --no-check-certificate https://raw.githubusercontent.com/ikaleo/kms-server-deploy/master/kms-server-deploy.sh && bash kms-server-deploy.sh
