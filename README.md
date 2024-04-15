@@ -7,7 +7,7 @@
 使用root用户登录服务器，运行以下命令：
 
 ```shell
-wget --no-check-certificate https://raw.githubusercontent.com/ikaleo/kms-server-deploy/master/kms-server-deploy.sh && bash kms-server-deploy.sh
+wget --no-check-certificate https://raw.githubusercontent.com/angustar/kms-server-deploy/master/kms-server-deploy.sh && bash kms-server-deploy.sh
 ```
 
 ### 示例
